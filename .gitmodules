@@ -1,0 +1,3 @@
+[submodule "thingsnet-backend"]
+	path = thingsnet-backend
+	url = git@github.com:nghung270192/thingsnet-backend.git
